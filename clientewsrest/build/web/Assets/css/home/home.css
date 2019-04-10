@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7/04/2019, 07:29:33 PM
+    Author     : eduardozamora
+*/
+
+:root{
+    --icon-size:65px;
+    --text-icon-color:white;
+    --text-icon-size:22px;
+}
+
+.textIcon{
+    /* Colors and Decorated */
+    color:var(--text-icon-size);
+    
+    /* Size and type */
+}
